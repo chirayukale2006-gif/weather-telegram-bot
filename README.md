@@ -30,9 +30,9 @@ The bot scrapes weather data from **timeanddate.com** and replies with current w
 ## 📂 Project Structure
 
 ```
-weather-telegram-bot
-│
-├── bot.py
+├── webscrap.py   
+├── .env
+├── .gitignore
 ├── requirements.txt
 └── README.md
 ```
